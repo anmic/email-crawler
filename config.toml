@@ -1,0 +1,4 @@
+[postgres]
+addr = "localhost:5432"
+user = "postgres"
+database = "leads_development"
